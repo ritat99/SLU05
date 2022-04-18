@@ -1,0 +1,8 @@
+bananas
+tomatoes
+milk
+meat 
+fish
+patotes
+
+
