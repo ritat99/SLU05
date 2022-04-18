@@ -3,3 +3,4 @@ White wine
 Rosé wine
 Sparkling wine
 Porto wine
+Moscatel
