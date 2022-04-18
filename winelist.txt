@@ -1,0 +1,5 @@
+Red wine
+White wine
+Rosé wine
+Sparkling wine
+Porto wine
